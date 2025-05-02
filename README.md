@@ -1,5 +1,5 @@
 # Absolute-Pathfinder
-Take a keyword, select a drive, and the software will scrub the drive and provide a list of absolute paths that include the submitted keyword
+Take a keyword, select a drive, and the software will scan the drive and provide a list of absolute paths that include the submitted keyword
 
 This script is not fancy, it isn't written well, and the only purpose it serves is to solve the niche problem I had of the standard Explorer being too slow and too inprecise for my liking.
 
