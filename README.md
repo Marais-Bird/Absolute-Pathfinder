@@ -5,8 +5,8 @@ This script is not fancy, it isn't written well, and the only purpose it serves 
 
 The .exe will ask you for a keyword, and will ask you which drive you would like to search. After some time, it will populate a list of absolute paths that you can copy and paste into your file explorer. At this time, you can only search one drive at a time.
 
-Totally unnecessary? Absolutely
-Will you be happy it exists? Maybe
+Totally unnecessary? Absolutely.
+Will you be happy it exists? Maybe.
 
 ![image](https://github.com/user-attachments/assets/f38af06f-ba9a-4c66-ba62-2c88ae63ed43)
 
